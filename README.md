@@ -9,3 +9,11 @@ Winget Software Search, Winget Software install, Winget Software Update, Winget 
 5) This files can be pushed remotely or You can run them using their matching batch file. 
 
 ![image](https://github.com/user-attachments/assets/26a418ee-bef4-42a7-a96c-b6bc152dbef0)
+
+After selecting all the software you need:
+Test running the install and uninstall batch files on the same directory:
+
+![image](https://github.com/user-attachments/assets/b7852a20-25f6-412d-802d-8b0c027ad96f)
+
+![image](https://github.com/user-attachments/assets/1c5ad999-d0c0-45bd-a9ef-e1b27897c9cd)
+

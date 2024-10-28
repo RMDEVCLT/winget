@@ -15,5 +15,8 @@ Test running the install and uninstall batch files on the same directory:
 
 ![image](https://github.com/user-attachments/assets/b7852a20-25f6-412d-802d-8b0c027ad96f)
 
+Sample Installing:
 ![image](https://github.com/user-attachments/assets/1c5ad999-d0c0-45bd-a9ef-e1b27897c9cd)
 
+Sample uninstalling:
+![image](https://github.com/user-attachments/assets/a5200ccf-ad2b-4a23-a6aa-35491b6ee919)

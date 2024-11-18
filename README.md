@@ -1,5 +1,6 @@
 # winget
 Winget Software Search, Winget Software install, Winget Software Update, Winget Software Uninstaller
+(NOTE: Winget is not available on Windows Server OS platform. Only available on End User Compute OS, 10,11,ETC)
 
 # How to use.
 1) Download all files in the same folder:
